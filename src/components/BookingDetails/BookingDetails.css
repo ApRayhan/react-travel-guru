@@ -1,0 +1,37 @@
+.booking_form {
+  z-index: 9999;
+  background: white;
+  width: 35%;
+  float: right;
+  position: relative;
+  top: 25%;
+  right: 10%;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
+.booking_form input[type="text"]{
+  background-color: #F2F2F2;
+  border: none;
+}
+.booking_btn {
+  background: #F9A51A;
+  width: 100%;
+  color: black;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+}
+
+
+
+.booking_description {
+  width: 50%;
+  float: left;
+  position: relative;
+  z-index: 99999999;
+  color: white;
+  top: 30%;
+  padding: 20px 50px;
+}

@@ -1,0 +1,15 @@
+.logoArea img {
+  width: 100px;
+}
+.loginBtn:hover {
+  background-color: #db8d0b;
+  transition: .4s ease-in-out;
+}
+.navItem {
+  color: #5c5757;
+  padding: 6px 30px
+
+}
+.navItem:hover {
+  text-decoration: none;
+}

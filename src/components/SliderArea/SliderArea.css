@@ -1,0 +1,73 @@
+.item {
+
+}
+.silder {
+  width: 60%;
+  float: right;
+  margin-top: 107px;
+  z-index: 1;
+  position: sticky;
+}
+.silder .item img{
+  width: 200px;
+  height: 300px;
+}
+.silder div:first-child img {
+  border: 3px solid #F9A51A;
+  border-radius: 18px;
+}
+.slick-prev {
+  left: 0px;
+  top: 354px;
+}
+.slick-next {
+  right: 0;
+  position: relative;
+  top: 50px;
+  left: 30px;
+}
+.slick-dots {
+  display: none !important;
+}
+
+.sliderImg {
+  position: relative;
+}
+.sliderName {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  color: white;
+}
+/* .................................. */
+.single_item {
+  width: 30%;
+  float: left;
+  margin-top: 160px;
+  margin-left: 50px;
+  z-index: 1;
+  position: relative;
+}
+.single_item .title {
+  color: white;
+}
+.single_item .details {
+  color: whitesmoke;
+}
+.single_item .booking {
+  color: #000000;
+  background: #F9A51A;
+  border: none;
+  padding: 6px 25px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.name {
+  color: white;
+  position: relative;
+  top: -132px;
+  text-align: center;
+  left: -28px;
+
+}

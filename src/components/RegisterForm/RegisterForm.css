@@ -1,0 +1,45 @@
+.registerForm {
+  width: 50%;
+  margin-top: 50px;
+  border: 1px solid #e5e5e5;
+  padding: 15px 40px;
+  border-radius: 5px;
+}
+.registerForm .haveAccount {
+  margin-top: 10px;
+  text-align: center;
+}
+.buttom {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.buttom p {
+  text-align: center;
+}
+.buttom button {
+  text-align: center;
+  border: none;
+  background: white;
+}
+.social_register {
+  border: 1px solid #ced4da;
+  width: 70%;
+  padding: 15px 30px 40px 50px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+.social_register .left {
+  float: left;
+  width: 20%;
+}
+.social_register .right {
+  float: right;
+  width: 75%;
+}
+.social_register .icon {
+  width: 30px;
+  height: 30px;
+  top: -5px;
+  position: relative;
+}

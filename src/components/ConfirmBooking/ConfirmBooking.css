@@ -1,0 +1,41 @@
+.placeInfo_and_map {}
+.placeInfo_and_map .placeInfo{
+  width: 55%;
+  float: left;
+}
+.placeInfo_and_map .placeInfo .top{
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.placeInfo_and_map .placeInfo .single {
+  margin-left: 25px;
+  margin-top: 25px;
+  float: left;
+}
+.placeInfo_and_map .placeInfo .single img {
+  width: 90%;
+  height: 150px;
+}
+.placeInfo_and_map .placeInfo .single .infoLeft{
+  width: 45%;
+  float: left;
+}
+.placeInfo_and_map .placeInfo .single .infoRight{
+  width: 45%;
+  float: left;
+}
+.placeInfo_and_map .placeInfo .single .infoRight p{}
+.placeInfo_and_map .placeInfo .single .infoRight small{
+  display: block;
+  color: #6A6A6A;
+  padding: 3px;
+}
+.placeInfo_and_map .map{
+  width: 40%;
+  float: left;
+  text-align: center;
+  margin-top: 80px;
+}
+.placeInfo_and_map .map img {
+  width: 80%;
+}
